@@ -11,4 +11,6 @@ A video corresponding to the scenario presented in Section 6.1 of Alessandro Bia
 
 A paper presenting DigForSim has been accepted for publication at PAAMS 2020, https://www.paams.net/
 
+See also the twin project on DigForReas-J, https://github.com/VivianaMascardi/DigForReason
+
 
