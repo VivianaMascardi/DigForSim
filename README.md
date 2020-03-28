@@ -6,8 +6,8 @@ The idea of implementing DigForSim was born inside the "Digital Forensics: Evide
 
 DigForSim produces realistic and controllable synthetic data logging people's movement in user-defined environments modeling a city, a borough, or a house. These synthetic data will be used as benchmarks while testing the prototypes developed in DigForASP. Controlling the way in which such benchmarks are produced and being able to enforce situations of interest to emerge ("alice and bob were in the same place for more than 5 minutes, in three different occasions"), is a main requirement to properly assess the reasoning process performed by the DigForASP prototypes ("given that alice and bob were in the same place for more than 5 minutes, in three different occasions, they might know each other, might have exchanged information or stuff, and might be partners in crime"). DigForSim is implemented in Unity and it is described in details in Alessandro Biagetti's Master Thesis, available here: https://github.com/VivianaMascardi/DigForSim/blob/master/BiagettiAlessandroThesis2019-def.pdf
 
-A video corresponding to the scenario presented in Section 6.1 of Alessandro Biagetti's Master Thesis can be downloaded here: 
-(not uploaded on GitHub because too large)
+A video corresponding to the scenario presented in Section 6.1 of Alessandro Biagetti's Master Thesis can be downloaded from Drive here: https://drive.google.com/file/d/1ZlR-MT4ijlZDvTYjzEN4YrUnRolQahRV/view?usp=sharing 
+(not uploaded on GitHub because too large).
 
 A paper presenting DigForSim has been accepted for publication at PAAMS 2020, https://www.paams.net/
 
